@@ -39,8 +39,8 @@ export default function Home() {
                 priority />
             </div>
             <div>
-              <p className='text-white text-[14px] font-medium' >Coming soon</p>
-              <h1 className='text-white text-[16px] font-bold'>App store</h1>
+              <p className='text-white md:text-[14px] text-sm font-medium' >Coming soon</p>
+              <h1 className='text-white md:text-[16px] text-sm font-bold'>App store</h1>
             </div>
           </div>
         </div>
