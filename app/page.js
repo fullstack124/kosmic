@@ -55,6 +55,7 @@ export default function Home() {
             <button className='bg-[#B139FF] py-3 px-4 rounded-[10px] text-[16px] text-white font-medium'>Notify me</button>
             </div>
           </div>
+          <h1 className='md:text-md font-medium not-italic mt-6 text-white text-center'>Notify me when Kosmic is launched.</h1>
         </div>
       </div>
       <div className='flex items-center md:justify-between justify-center md:flex-row flex-col mt-[120px] container mx-auto mb-4'>
